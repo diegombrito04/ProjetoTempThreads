@@ -1,0 +1,11 @@
+Rodada: 8192ms
+Rodada: 8173ms
+Rodada: 8188ms
+Rodada: 8139ms
+Rodada: 8184ms
+Rodada: 8261ms
+Rodada: 8064ms
+Rodada: 8104ms
+Rodada: 8087ms
+Rodada: 8161ms
+Tempo médio: 8155ms
